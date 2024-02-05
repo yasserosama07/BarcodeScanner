@@ -1,0 +1,7 @@
+"SCAN_BARCODE_TITLE" = "Escanear código de barras";
+"BUTTON_CLOSE" = "Cerca";
+"BUTTON_SETTINGS" = "Ajustes";
+"INFO_DESCRIPTION_TEXT" = "Coloque el código de barras dentro de la ventana para escanear. La búsqueda comenzará automáticamente.";
+"INFO_LOADING_TITLE" = "Buscando su producto...";
+"NO_PRODUCT_ERROR_TITLE" = "No se encontró ningún producto.";
+"ASK_FOR_PERMISSION_TEXT" = "Para escanear códigos de barras, debe permitir la cámara en su configuración.";

@@ -1,0 +1,7 @@
+"SCAN_BARCODE_TITLE" = "مسح الرمز الشريطى";
+"BUTTON_CLOSE" = "إغلاق";
+"BUTTON_SETTINGS" = "إعدادات";
+"INFO_DESCRIPTION_TEXT" = "ضع الرمز الشريطي داخل النافذة لمسحه ضوئيًا. سيبدأ البحث تلقائيا.";
+"INFO_LOADING_TITLE" = "نبحث عن منتجك...";
+"NO_PRODUCT_ERROR_TITLE" = "لم يتم العثور على منتج.";
+"ASK_FOR_PERMISSION_TEXT" = "من أجل مسح الرموز الشريطية، يجب عليك السماح بالكاميرا ضمن إعداداتك.";
